@@ -47,7 +47,7 @@ gesture_keyboard/
 ## 🚀 Getting Started
 1. Clone the Repository
 ```bash
-git clone https://github.com/AlienMinus/gesture-keyboard.git
+git clone https://github.com/AlienMinus/gesture_keyboard.git
 cd gesture_keyboard
 ```
 2. Install Dependencies
